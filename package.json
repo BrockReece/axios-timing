@@ -1,0 +1,26 @@
+{
+  "name": "axios-timing",
+  "version": "1.0.0",
+  "description": "Axios plugin to measure the actual time it takes for a request to complete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrockReece/axios-timing.git"
+  },
+  "keywords": [
+    "axios",
+    "plugin",
+    "time",
+    "timing",
+    "response"
+  ],
+  "author": "Brock Reece (brockreece@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrockReece/axios-timing/issues"
+  },
+  "homepage": "https://github.com/BrockReece/axios-timing#readme"
+}

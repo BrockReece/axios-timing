@@ -1,6 +1,6 @@
 {
   "name": "axios-timing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Axios plugin to measure the actual time it takes for a request to complete",
   "main": "index.js",
   "scripts": {

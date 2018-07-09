@@ -34,5 +34,5 @@ You can pass through a custom callback as your second arguement
 import axios
 import axiosTiming from './axios-timing'
 
-axiosTiming(axios, timeInMs => console.log(`${timeInMs.toFixed}ms`))
+axiosTiming(axios, timeInMs => console.log(`${timeInMs.toFixed()}ms`))
 ```
